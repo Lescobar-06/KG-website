@@ -63,13 +63,13 @@ nav {
 
 .nav-links a {
   text-decoration: none;
-  color: #ffc505;
+  color: #b71c1c67;
   transition: color 1.2s;
   padding: 0.5rem 1rem;
 }
 
 .nav-links a:hover {
-  color: #aa100b;
+  color: #ffc505;
   text-decoration: underline;
   font-weight: bold;
   transition: color 0.5s;
@@ -104,7 +104,7 @@ a.kota {
 }
 
 a.kota {
-  color: #ffc105;
+  color: #b71c1c67;
 }
 .nav-links a.kota:hover {
   text-decoration: underline;
@@ -112,7 +112,7 @@ a.kota {
 }
 
 a.breakfast {
-  color: #ffc105;
+  color: #b71c1c67;
 }
 .nav-links a.breakfast:hover {
   text-decoration: underline;
@@ -120,7 +120,7 @@ a.breakfast {
 }
 
 a.contacts {
-  color: #ffc105;
+  color: #b71c1c67;
 }
 .nav-links a.contacts:hover {
   text-decoration: underline;
