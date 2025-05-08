@@ -204,18 +204,32 @@ main {
   display: inline-grid;
 }
 
+.grid a {
+  text-decoration: none;
+  color: #b71c1c;
+  font-weight: bold;
+  transition: ease-in-out 1.5s;
+}
+.grid a:hover {
+  text-decoration: none;
+  color: #000000;
+  transition: ease-in-out 1.5s;
+  border-radius: 9999px;
+}
+
 main .grid a h3 {
   color: #b71c1c;
   font-size: 2.1rem;
   font-weight: bold;
   background-color: #ffc107;
-  border-radius: 9px;
-  position: absolute;
-  margin-left: 810px;
-  margin-top: 270px;
+  border-radius: 10px;
+  margin-left: 830px;
+  margin-top: 530px;
   justify-content: center;
   display: flex;
   width: 25%;
+  text-decoration: none;
+  transition: ease-in-out 1.5s;
 }
 
 main .grid a h3:hover {

@@ -249,6 +249,10 @@ main {
   background-size: contain;
   background-repeat: no-repeat;
   width: 24vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: end;
 }
 
 .lunch-section {
